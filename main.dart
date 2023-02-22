@@ -96,8 +96,6 @@ print("odd number");
 }
 else{
   print("prime no");
-  
-String name1= String.parse();
 }
 
 
